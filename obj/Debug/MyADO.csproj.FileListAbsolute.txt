@@ -1,0 +1,15 @@
+C:\AWork\MyADO\MyADO\bin\Debug\MyADO.exe.config
+C:\AWork\MyADO\MyADO\bin\Debug\MyADO.exe
+C:\AWork\MyADO\MyADO\bin\Debug\MyADO.pdb
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.csprojAssemblyReference.cache
+C:\AWork\MyADO\MyADO\obj\Debug\MainWindow.g.cs
+C:\AWork\MyADO\MyADO\obj\Debug\App.g.cs
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO_MarkupCompile.cache
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO_MarkupCompile.lref
+C:\AWork\MyADO\MyADO\obj\Debug\MainWindow.baml
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.g.resources
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.Properties.Resources.resources
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.csproj.GenerateResource.cache
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.csproj.CoreCompileInputs.cache
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.exe
+C:\AWork\MyADO\MyADO\obj\Debug\MyADO.pdb
