@@ -27,7 +27,7 @@ namespace MyADO
 
         private void btStart_Click(object sender, RoutedEventArgs e)
         {
-            this.tbSomeText.Text = "Hello World";
+            this.tbSomeText.Text = "Hello Marilynn";
         }
     }
 }
